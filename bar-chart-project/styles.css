@@ -1,0 +1,12 @@
+.bar {
+    fill: navy;
+}
+
+.svg {
+    border: 2px solid red;
+}
+
+#title {
+    text-align: center;
+    font-size: 3.5em;
+}
